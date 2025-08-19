@@ -4,8 +4,6 @@ This repository contains my research and experimentation on improving the advers
 
 Over the course of my work, I explored training techniques, adversarial attack methods, and architectural innovations to make CORnet-S more reliable for real-world applications in computer vision.
 
----
-
 ## Key Projects
 
 ### 1. Baseline Training & Blurry-to-Clear (BTC) Method
@@ -32,7 +30,6 @@ Over the course of my work, I explored training techniques, adversarial attack m
   - **CW** (Carlini-Wagner)  
   - **Patch Attacks**
 
----
 ##  Novel Contributions in CORNet-S_RD_V2
 
 My modified CORNet-S architecture includes several innovations designed to improve adversarial robustness:
@@ -53,8 +50,6 @@ My modified CORNet-S architecture includes several innovations designed to impro
 - Achieved **+10% adversarial robustness** compared to baseline CORnet-S  
 - Increased adversarial accuracy up to **97.87%** under evaluated threat models  
 - Maintained lightweight and biologically plausible design  
-
----
 
 ## Why This Matters
 
