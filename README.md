@@ -56,3 +56,7 @@ My modified CORNet-S architecture includes several innovations designed to impro
 - **CORnet-S** is already a game-changing architecture in computer vision, combining biological inspiration with computational efficiency.  
 - My enhanced version makes it **significantly more adversarially robust**, allowing it to be applied in **real-world, security-critical settings** such as medical imaging, robotics, and autonomous systems.  
 - This work provides a foundation for **other researchers and engineers** who want to leverage CORnet-S while ensuring robustness against adversarial attacks.  
+
+## Reference
+The original CORNet-S repository: 
+https://github.com/dicarlolab/CORnet
